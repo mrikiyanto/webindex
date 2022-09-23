@@ -1,1 +1,1 @@
-# sample repository connected with jenkins (pipeline)
+# Sample repository connected with jenkins (pipeline) - Autodeploy
